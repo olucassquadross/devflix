@@ -1,0 +1,274 @@
+{
+  "data": {
+    "categoryList": [
+      {
+        "id": 2,
+        "name": "Default Category",
+        "children": [
+          {
+            "id": 38,
+            "name": "What's New",
+            "children": []
+          },
+          {
+            "id": 20,
+            "name": "Women",
+            "children": [
+              {
+                "id": 21,
+                "name": "Tops"
+              },
+              {
+                "id": 22,
+                "name": "Bottoms"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Men",
+            "children": [
+              {
+                "id": 12,
+                "name": "Tops"
+              },
+              {
+                "id": 13,
+                "name": "Bottoms"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Gear",
+            "children": [
+              {
+                "id": 4,
+                "name": "Bags"
+              },
+              {
+                "id": 5,
+                "name": "Fitness Equipment"
+              },
+              {
+                "id": 6,
+                "name": "Watches"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Training",
+            "children": [
+              {
+                "id": 10,
+                "name": "Video Download"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "name": "Sale",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Bags",
+        "children": []
+      },
+      {
+        "id": 8,
+        "name": "New Luma Yoga Collection",
+        "children": []
+      },
+      {
+        "id": 10,
+        "name": "Video Download",
+        "children": []
+      },
+      {
+        "id": 12,
+        "name": "Tops",
+        "children": [
+          {
+            "id": 14,
+            "name": "Jackets",
+            "children": []
+          },
+          {
+            "id": 15,
+            "name": "Hoodies & Sweatshirts",
+            "children": []
+          },
+          {
+            "id": 16,
+            "name": "Tees",
+            "children": []
+          },
+          {
+            "id": 17,
+            "name": "Tanks",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Jackets",
+        "children": []
+      },
+      {
+        "id": 18,
+        "name": "Pants",
+        "children": []
+      },
+      {
+        "id": 21,
+        "name": "Tops",
+        "children": [
+          {
+            "id": 23,
+            "name": "Jackets",
+            "children": []
+          },
+          {
+            "id": 24,
+            "name": "Hoodies & Sweatshirts",
+            "children": []
+          },
+          {
+            "id": 25,
+            "name": "Tees",
+            "children": []
+          },
+          {
+            "id": 26,
+            "name": "Bras & Tanks",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Jackets",
+        "children": []
+      },
+      {
+        "id": 27,
+        "name": "Pants",
+        "children": []
+      },
+      {
+        "id": 30,
+        "name": "Women Sale",
+        "children": []
+      },
+      {
+        "id": 38,
+        "name": "What's New",
+        "children": []
+      },
+      {
+        "id": 5,
+        "name": "Fitness Equipment",
+        "children": []
+      },
+      {
+        "id": 13,
+        "name": "Bottoms",
+        "children": [
+          {
+            "id": 18,
+            "name": "Pants",
+            "children": []
+          },
+          {
+            "id": 19,
+            "name": "Shorts",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Hoodies & Sweatshirts",
+        "children": []
+      },
+      {
+        "id": 19,
+        "name": "Shorts",
+        "children": []
+      },
+      {
+        "id": 20,
+        "name": "Women",
+        "children": [
+          {
+            "id": 21,
+            "name": "Tops",
+            "children": [
+              {
+                "id": 23,
+                "name": "Jackets"
+              },
+              {
+                "id": 24,
+                "name": "Hoodies & Sweatshirts"
+              },
+              {
+                "id": 25,
+                "name": "Tees"
+              },
+              {
+                "id": 26,
+                "name": "Bras & Tanks"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Bottoms",
+            "children": [
+              {
+                "id": 27,
+                "name": "Pants"
+              },
+              {
+                "id": 28,
+                "name": "Shorts"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Bottoms",
+        "children": [
+          {
+            "id": 27,
+            "name": "Pants",
+            "children": []
+          },
+          {
+            "id": 28,
+            "name": "Shorts",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Hoodies & Sweatshirts",
+        "children": []
+      },
+      {
+        "id": 28,
+        "name": "Shorts",
+        "children": []
+      }
+    ]
+  }
+}
